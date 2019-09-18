@@ -1,0 +1,1 @@
+print "yoav will lose"
